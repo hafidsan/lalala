@@ -5,9 +5,7 @@ public class Kambing{
 		km.bebek();
 	}
 	
-	function bebek(){
+	function bebeks(){
 		
 	}
-	
-	
 }
